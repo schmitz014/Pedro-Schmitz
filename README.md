@@ -13,7 +13,7 @@ Olá, eu sou Pedro Schmitz, tenho 18 anos e moro em São Paulo, Brasil.
 Sou um estudante da ETEC Prof Camargo Aranha desde 2021. Eu entrei no curso de Desenvolvimento de Sistemas integrado ao ensino médio.
 
 ## Atualmente estudando as tecnologias abaixo
-[![My Skills](https://skillicons.dev/icons?i=angular,arduino,bootstrap,cpp,css,django,express,git,heroku,hmtl,java,js,laravel,mongodb,nextjs,nodejs,php,postgres,postman,prisma,py,react,sass,ts,vercel,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,arduino,bootstrap,c#,css,django,express,git,heroku,hmtl,java,js,laravel,mongodb,nextjs,nodejs,php,postgres,postman,prisma,py,react,sass,ts,vercel,vscode,vue)](https://skillicons.dev)
 
 Venha e confira um dos meus repositórios!
 Obrigado!
