@@ -3,7 +3,7 @@ Hello, I'm Pedro Schmitz. I'm 18 years old and I live in Sao Paulo, Brazil.
 I'm a student from ETEC Prof Camargo Aranha since 2021. I joined the course of Development Systems integrated with high school.
 
 ## Studying the Technologies above
-[![My Skills](https://skillicons.dev/icons?i=angular,arduino,bootstrap,cpp,css,django,express,git,heroku,hmtl,java,js,laravel,mongodb,nextjs,nodejs,php,postgres,postman,prisma,py,react,sass,ts,vercel,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,arduino,bootstrap,c#,css,django,express,git,heroku,hmtl,java,js,laravel,mongodb,nextjs,nodejs,php,postgres,postman,prisma,py,react,sass,ts,vercel,vscode,vue)](https://skillicons.dev)
 
 Come on and check one of my repositories! 
 Thank you!
