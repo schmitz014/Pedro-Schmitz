@@ -20,5 +20,5 @@
   <a href="mailto:pedroschmitz0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">    </img></a>
   </div>
 
-  <h1>Come on and check one of my repositories! Thank you!</h1>
+  <h2>Come on and check one of my repositories! Thank you!</h2>
 </div>
