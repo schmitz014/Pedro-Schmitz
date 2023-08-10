@@ -4,12 +4,20 @@
   <h5>Hello, I'm Pedro Schmitz. I'm 18 years old and I live in Sao Paulo, Brazil.
   <br>
   I'm a student from ETEC Prof Camargo Aranha since 2021. I joined the course of Development Systems integrated with high school.</h5>
-
+  
   ### Mastering Technologies above
   ![My Skills](https://skillicons.dev/icons?i=angular,react,ts,mongodb,express,nextjs,postman,prisma,sass)
 
-  ### Extra Technologies
+  ### Design
   ![My Skills](https://skillicons.dev/icons?i=premiere,photoshop,illustrator,figma)
+
+  ### Stats
+
+  <div style="display: flex; align-items: center;" align="center">
+    
+   <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=schmitz014&show_icons=true&theme=github_dark">
+   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schmitz014&layout=compact&theme=github_dark">
+  </div>
 
   <div style="display: inline">
   
@@ -21,9 +29,4 @@
   </div>
 
   <h2>Come on and check one of my repositories! Thank you!</h2>
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=schmitz014&show_icons=true&theme=github_dark)
-  <br>
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schmitz014&layout=compact&theme=github_dark)
 </div>
