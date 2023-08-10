@@ -8,7 +8,7 @@
   ### Mastering Technologies above
   ![My Skills](https://skillicons.dev/icons?i=angular,react,ts,mongodb,express,nextjs,postman,prisma,sass)
 
-  ### Design
+  ### Video and Design
   ![My Skills](https://skillicons.dev/icons?i=premiere,photoshop,illustrator,figma)
 
   ### Stats
