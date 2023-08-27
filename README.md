@@ -4,8 +4,9 @@
   <h4>Hello, I'm Pedro Schmitz. I'm 18 years old and I live in Sao Paulo, Brazil.
   <br>
   I'm a student from ETEC Prof Camargo Aranha since 2021. I joined the course of Development Systems integrated with high school.</h4>
-  
-  ### Mastering Technologies above
+<div align="center">
+
+ ### Mastering Technologies above
   ![My Skills](https://skillicons.dev/icons?i=angular,react,django,express,adonis)
 
   ### Video and Design
@@ -29,4 +30,5 @@
   </div>
 
   <h2>Come on and check one of my repositories! Thank you!</h2>
+</div>
 </div>
