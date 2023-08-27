@@ -6,7 +6,7 @@
   I'm a student from ETEC Prof Camargo Aranha since 2021. I joined the course of Development Systems integrated with high school.</h4>
   
   ### Mastering Technologies above
-  ![My Skills](https://skillicons.dev/icons?i=angular,react,django,ts,mongodb,express,nextjs,postman,prisma,sass)
+  ![My Skills](https://skillicons.dev/icons?i=angular,react,django,express,adonis)
 
   ### Video and Design
   ![My Skills](https://skillicons.dev/icons?i=premiere,photoshop,illustrator,figma)
