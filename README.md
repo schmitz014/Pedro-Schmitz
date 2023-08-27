@@ -34,5 +34,3 @@
 
   <h2>Come on and check one of my repositories! Thank you!</h2>
 </div>
-</div>
-
