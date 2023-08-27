@@ -1,8 +1,6 @@
 <div align="center">
   
   # About me
-
-<div align="justify">
   
   <h4>Hello, I'm Pedro Schmitz. I'm 18 years old and I live in Sao Paulo, Brazil.
   <br>
@@ -17,7 +15,7 @@
 
   ### Stats
 
-  <div style="display: flex; align-items: center;" align="center">
+  <div style="display: flex; >
     
    <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=schmitz014&show_icons=true&theme=github_dark">
    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schmitz014&layout=compact&theme=github_dark">
