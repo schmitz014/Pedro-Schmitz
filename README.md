@@ -1,6 +1,5 @@
-<div="center">
-
-# About me
+<div align="center">
+  # About me
 
 <div align="justify">
   
