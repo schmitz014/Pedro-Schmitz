@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
   
   # About me 
   <h4>Hello, I'm Pedro Schmitz. I'm 18 years old and I live in Sao Paulo, Brazil.
