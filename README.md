@@ -26,7 +26,7 @@
   
   ### Personal Links
   <a href="https://www.instagram.com/madebyschmitz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-  <a href="www.linkedin.com/in/pedro-schmitz014"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+  <a href="[www.linkedin.com/in/pedro-schmitz014](https://www.linkedin.com/in/pedro-schmitz014/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
   <a href="mailto:pedroschmitz0000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">    </img></a>
   </div>
 
